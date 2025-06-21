@@ -50,3 +50,4 @@ Next class
 	1. github - gitbash terminal , command, terminal
 		clone, branch, push (remote)
 	2. JavaScript (Variables, functions ES6 ES7 ES8...)
+
