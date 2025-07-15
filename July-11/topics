@@ -1,0 +1,18 @@
+Global execution context
+how to include js file into html
+Data types 
+    1. primitive - Number, String, Boolean, null, undefined
+    2. non-primitive - Arrays, Objects 
+Scoping - Global, function, block(ES6)
+Condition operators - && ||
+control flows - if, if else, else if
+return keyword
+Spread operator - ES6
+Rest operator - ES6
+ES6 Destructuring(Array Destructuring, Objects Destructuring)
+for..of - iterables (Arrays, Strings)
+for..in - Objects - 
+forEach
+Arrays built-in methods
+Objects built-in methods
+map, reduce, filter - ES6
