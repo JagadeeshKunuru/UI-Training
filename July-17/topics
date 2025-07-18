@@ -1,0 +1,23 @@
+Topics
+    Closures
+    Browser APIs
+        console
+        DOM manipulation
+        How Browser APIs will help DOM manipulation
+            -getElementById
+            -getElementByClass
+            -querySelector
+            -innerHTML
+            -textContent
+            -appendChild
+            -removeChild
+            -Event listeners
+
+Next class - pending JS
+    -local storage
+    -session storage
+    -event bubbling, event delegation
+    -ES6 - class, this keyword, bind, apply, call
+    -callbacks, promises, async await
+    -testing, debugging
+    -optimization tecnhiques
