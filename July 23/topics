@@ -1,0 +1,19 @@
+Asynchronous Javascript
+
+- sync
+- setTimeout
+- problems with sync
+- async
+- 3 concepts
+- callbacks
+- callback hell
+- Promise
+- what problems are we solving with Promise ?
+- Async Await
+- better coding for Promises
+
+Next class
+- Optional chaining (?.)
+- class
+- event bubbling
+- event delegation
