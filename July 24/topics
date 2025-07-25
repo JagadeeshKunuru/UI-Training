@@ -1,0 +1,25 @@
+Topics
+Optional chaining - ES11
+Event bubbling
+Event Capturing(Trickling)
+Event delegation
+----
+Next class
+Objects
+How many ways can we create an object ?
+    1)Object literal ({})
+    2)new Object
+    3)Factory functions (new keyword)
+    4)Constructor functions (this keyword)
+    5)Object.assign
+    6)JSON.parse()
+
+ES6 - Class
+One of the way to create objects 
+//Why do we need class (ES6) when we have functions to create objects?
+    1) inheritance
+    2) super()
+    3) static methods
+    4) encapsulation - private properties 
+
+bind, call, apply
