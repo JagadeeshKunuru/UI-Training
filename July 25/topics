@@ -1,0 +1,12 @@
+// Overview of Objects
+//     How many ways can we create an object
+// Classes - ES6
+//     What is the use of classes ?
+//1)Object literals - {}
+//2)new Object
+//3)Factory functions
+//4)Object.assign
+//5)Constructor function
+//6)using classes
+
+// call, apply, bind
