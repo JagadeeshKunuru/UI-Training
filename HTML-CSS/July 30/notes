@@ -1,0 +1,53 @@
+script tag should always be at the last of the body elements or it can be placed
+inside a head element but with a defer attribute.
+
+<script src="" defer></script>
+
+is html elements case-sensitive or case-insensitive ? Answer - case-insensitive
+-
+<div></div>
+or <DIV></DIV>
+
+example of case-sensitive - div, Div, DiV, diV, DIv But we have to use lowercase
+- use
+<div>
+  instead of <DIV></DIV> we can create our own custom html elements(React,
+  angular) <Login></Login>
+
+  //types of css usages //inline, internal, external inline
+  <div style="width: 100%; background-color: red">
+    <p>This is a para</p>
+    <button onclick="login()" id="login-btn">Login</button>
+  </div>
+
+  internal
+  <style>
+    div {
+      width: 100%;
+      background-color: red;
+    }
+  </style>
+
+  external will create a file and then we use it - we create a different file
+  for css and then we use it witl link tag
+  <link rel="stylesheet" href="index.css" />
+</div>
+
+-------- BEM (Block Element Modifier)
+
+<body>
+  <div class="login-container">
+    <p class="login-container_label">Enter your login details</p>
+    <input type="text" class="login-container__text" />
+    <button class="login-container__login--btn">Login here</button>
+  </div>
+</body>
+
+--- Design approaches (Mobile-first approach, Desktop-first approach) we design
+all these approaches using responsive design layout using flexbox, media
+queries. ----- what is a box model ? Every element on the html will be converted
+into a rectangular box what will be inside this rectangular box - - content -
+padding - border - margin (this will separate html elements) what is the width
+of an element ? content width + padding-right + padding-left + border-left +
+border-right ------------------------------------- ---positioning -static
+-relative -absolute -fixed
