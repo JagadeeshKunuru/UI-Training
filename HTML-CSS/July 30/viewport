@@ -1,0 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+This is used for responsive design With the help of viewport, all the elements
+will be rendered based on the device device-width if we remove viewport meta
+tag, all the widths will be calcualted using a default desktop width 980-990px
